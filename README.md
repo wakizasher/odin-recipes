@@ -1,0 +1,2 @@
+Basic recipe website with simple HTML. 
+The website consists of a main page which will ahve links to a few recipes. The website doesn't look pretty, the main purpose is to build my HTML chops; I will revisit this project in the future to style it up with CSS.
